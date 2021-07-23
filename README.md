@@ -1,4 +1,3 @@
-# ThreeJs Starter Template
-
+# ThreeJs Waves 
 
 
